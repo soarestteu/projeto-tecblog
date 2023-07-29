@@ -8,8 +8,7 @@
 body {
     font-size: 16px;
     font-family: "Trebuchet MS", Arial, sans-serif;
-    background: rgb(53,60,232);
-    background: linear-gradient(180deg, rgba(53,60,232,1) 0%, rgba(158,29,253,1) 30%, rgba(228,231,2,1) 100%);
+    background: #D5D5D5
 }
 
 /*ESTILOS HEADER*/
@@ -188,7 +187,7 @@ ul {
 /*ESTILOS RODAPE*/
 .rodape {
     width: 100%;
-    background-color: rgba(228,231,2,1) 100%;
+    background-color: #D5D5D5;
     padding: 20px;
     text-align: center;
     display: flex;
