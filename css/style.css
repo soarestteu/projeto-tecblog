@@ -17,6 +17,7 @@ body {
     background-color: #f7b600;
     padding: 20px;
     text-align: center;
+    width: 100%;
 }
 
 .area-logo {
@@ -186,6 +187,7 @@ ul {
     text-align: center;
     clear: both;
     font-weight: 500;
+    width: 100%;
 }
 
 .rodape span {
