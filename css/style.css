@@ -185,6 +185,8 @@ ul {
     background-color: #f7b600;
     padding: 20px;
     text-align: center;
+    display: flex;
+    justify-content: center;
     clear: both;
     font-weight: 500;
     width: 100%;
