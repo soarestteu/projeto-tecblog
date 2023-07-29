@@ -8,7 +8,8 @@
 body {
     font-size: 16px;
     font-family: "Trebuchet MS", Arial, sans-serif;
-    background: #e6e6e6;
+    background: rgb(53,60,232);
+    background: linear-gradient(180deg, rgba(53,60,232,1) 0%, rgba(158,29,253,1) 30%, rgba(228,231,2,1) 100%);
 }
 
 /*ESTILOS HEADER*/
@@ -17,7 +18,11 @@ body {
     background-color: #f7b600;
     padding: 20px;
     text-align: center;
-    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 885px;
+    margin: 0 auto;
 }
 
 .area-logo {
@@ -182,20 +187,21 @@ ul {
 
 /*ESTILOS RODAPE*/
 .rodape {
-    background-color: #f7b600;
+    width: 100%;
+    background-color: rgba(228,231,2,1) 100%;
     padding: 20px;
     text-align: center;
     display: flex;
     justify-content: center;
+    width: 920px;
+    margin: 0 auto;
     clear: both;
     font-weight: 500;
-    width: 100%;
 }
 
 .rodape span {
     font-weight: 500;
 }
-
 
 
 
